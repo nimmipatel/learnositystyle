@@ -12,7 +12,7 @@ text-align:center;
     margin-right: auto;
 }
 
-.lrn_widget.lrn_mcq .lrn_mcqgroup .lrn-mcq-option
+.lrn_widget.lrn_mcq .lrn_mcqgroup .lrn-mcq-option.lrn_widget.lrn_mcq .lrn_mcqgroup.lrn_mcqgroup-horizontal .lrn-mcq-option, .lrn_widget.lrn_mcq .lrn_mcqgroup.lrn_mcqgroup-vertical .lrn-mcq-option
 {
   display: table;
 }
