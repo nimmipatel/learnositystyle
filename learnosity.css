@@ -4,7 +4,7 @@ padding:0.6em;
 text-align:center;
 }
 
-.lrn_widget.lrn_mcq .lrn_mcqgroup .lrn-mcq-option{
+.lrn_widget.lrn_mcq .lrn_mcqgroup {
   display: table;
   margin-left: auto;
   margin-bottom: auto;
