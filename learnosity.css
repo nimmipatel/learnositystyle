@@ -5,6 +5,5 @@ text-align:center;
 }
 
 .lrn_widget.lrn_mcq .lrn_mcqgroup .lrn-mcq-option{
-padding-right:15em;
-text-align:center;
+align-content: center;
 }
