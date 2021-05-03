@@ -9,3 +9,8 @@ text-align:center;
   margin-left: auto;
   margin-bottom: auto;
 }
+
+.lrn_widget.lrn_mcq .lrn_mcqgroup.lrn_mcqgroup-horizontal .lrn-mcq-option
+{
+  display: table;
+}
