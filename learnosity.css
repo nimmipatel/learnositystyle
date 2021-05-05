@@ -17,6 +17,6 @@ text-align:center;
   display: table !important;
 }
 
-.stimulus_withborder {
+hr.stimulus_withborder {
     border-top: 3px solid #bbb;
 }
