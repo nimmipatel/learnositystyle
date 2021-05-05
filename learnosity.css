@@ -16,3 +16,10 @@ text-align:center;
 {
   display: table !important;
 }
+
+.stimulus_withborder {
+    margin: 0.6em; 
+    padding: 0.6em; 
+    text-align: center; 
+    border-bottom: 3px solid #bbb;
+}
