@@ -4,9 +4,9 @@ padding:0.6em;
 text-align:center;
 }
 
-.lrn_widget.lrn_mcq .lrn_mcqgroup.lrn_mcqgroup-vertical .lrn-mcq-option {
+.lrn_widget.lrn_mcq .lrn_mcqgroup {
     padding: 0;
-    display: table !important;
+    display: table ;
     margin-left: auto !important;
     margin-bottom: 0;
     margin-right: auto !important;
@@ -14,9 +14,9 @@ text-align:center;
 
 .lrn_widget.lrn_mcq .lrn_mcqgroup .lrn-mcq-option
 {
-  display: table !important;
+  display: table ;
 }
 
 hr.stimulus_withborder {
-    border-top: 3px solid #bbb;
+    border-top: 5px solid #bbb;
 }
