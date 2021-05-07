@@ -4,17 +4,17 @@ padding:0.6em;
 text-align:center;
 }
 
-.lrn_widget.lrn_mcq .lrn_mcqgroup {
+.lrn_widget.lrn_mcq .lrn_mcqgroup:not(.lrn_mcqgroup-horizontal) {
     padding: 0;
-    display: table;
+    display: table !important;
     margin-left: auto !important;
     margin-bottom: 0;
     margin-right: auto !important;
 }
 
-.lrn_widget.lrn_mcq .lrn_mcqgroup .lrn-mcq-option
+.lrn_widget.lrn_mcq .lrn_mcqgroup:not(.lrn_mcqgroup-horizontal) .lrn-mcq-option
 {
-  display: table;
+  display: table !important;
 }
 
 hr.stimulus_withborder {
