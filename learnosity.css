@@ -18,6 +18,6 @@ text-align:center;
 }
 
 hr.stimulus_withborder {
-    border-top: 3px solid #bbbb;
-    margin: auto 220px;
+    border-top: 3px solid #bbbb !important;
+    margin: auto 220px !important;
 }
