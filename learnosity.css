@@ -2,8 +2,8 @@
 margin:0.6em;
 padding:0.6em;
 text-align:center;
-border-top: 3px solid #bbbb;
-margin: auto 220px;
+border-bottom: 3px solid #bbbb;
+margin: auto 220px !important;
 }
 
 .lrn_widget.lrn_mcq .lrn_mcqgroup {
