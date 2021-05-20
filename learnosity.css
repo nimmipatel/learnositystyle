@@ -3,11 +3,11 @@ margin:0.6em;
 padding:0.6em;
 text-align:center;
 border-bottom: 3px solid #bbbb;
-margin: auto 220px !important;
+margin: auto 300px !important;
 }
 
 .lrn_widget.lrn_mcq .lrn_mcqgroup {
-    padding: 0;
+    padding: 15px !important;
     display: table;
     margin-left: auto !important;
     margin-bottom: 0;
