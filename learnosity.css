@@ -13,7 +13,7 @@ text-align:center;
 
 .lrn_widget.lrn_mcq .lrn_mcqgroup .lrn-mcq-option
 {
-  padding: 15px !important;
+  padding: 0 !important;
   display: table;
   text-align:center;
 }
