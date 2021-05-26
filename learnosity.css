@@ -18,6 +18,14 @@ text-align:center;
   text-align:center;
 }
 
+.lrn_widget.lrn_mcq .lrn_mcqgroup .lrn-mcq-option .lrn-label {
+    font-weight: 400;
+    padding: 0  !important;
+    margin: 0  !important;
+    width: 100%;
+    cursor: pointer;
+}
+
 .stimulus_withborder {
     border-top: 3px solid #bbbb !important;
     margin: auto 220px !important;
