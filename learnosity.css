@@ -13,14 +13,14 @@ text-align:center;
 
 .lrn_widget.lrn_mcq .lrn_mcqgroup .lrn-mcq-option
 {
-  padding: 0 !important;
+  padding: 15px !important;
   display: table;
   text-align:center;
 }
 
 .lrn_widget.lrn_mcq .lrn_mcqgroup .lrn-mcq-option .lrn-label {
     font-weight: 400;
-    padding: 0  !important;
+    padding: 0  ;
     margin: 0  !important;
     width: 100%;
     cursor: pointer;
