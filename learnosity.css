@@ -1,7 +1,41 @@
+iframe.x-origin-frame {
+    display: none;
+}
+
+body {
+    background-color: #7d7d7d;
+    margin: 0px;
+}
+
+.assessment_container {
+    height: 100vh;
+    background: #ffffff;
+    margin: 0 128px;
+}
+
+.lrn-assess {
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+.passage_title, .lrn-feature-heading {
+    display: none;
+}
+
+.top-right-wrapper, .bottom-right-wrapper {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+}
+
+.dialogs .lrn-assess-modal-footer.modal-footer .lrn_btn_blue.continue {
+    display: none;
+}
+
 .lrn_stimulus .lrn_stimulus_content{
-margin:0.6em;
 padding:0.6em;
 text-align:center;
+border-bottom: 3px solid #bbb;
+margin: auto 320px !important;
 }
 
 .lrn_widget.lrn_mcq .lrn_mcqgroup {
@@ -13,20 +47,11 @@ text-align:center;
 
 .lrn_widget.lrn_mcq .lrn_mcqgroup .lrn-mcq-option
 {
-  padding: 15px !important;
   display: table;
-  text-align:center;
-}
-
-.lrn_widget.lrn_mcq .lrn_mcqgroup .lrn-mcq-option .lrn-label {
-    font-weight: 400;
-    padding: 0  ;
-    margin: 0  !important;
-    width: 100%;
-    cursor: pointer;
+  padding: 15px !important;
 }
 
 .stimulus_withborder {
     border-top: 3px solid #bbbb !important;
-    margin: auto 220px !important;
+    margin: auto 320px !important;
 }
