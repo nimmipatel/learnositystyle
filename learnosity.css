@@ -34,8 +34,6 @@ body {
 .lrn_stimulus .lrn_stimulus_content{
 padding:0.6em;
 text-align:center;
-border-bottom: 3px solid #bbb;
-margin: auto 320px !important;
 }
 
 .lrn_widget.lrn_mcq .lrn_mcqgroup {
@@ -52,6 +50,6 @@ margin: auto 320px !important;
 }
 
 .stimulus_withborder {
-    border-top: 3px solid #bbbb !important;
-    margin: auto 320px !important;
+    border-top: 3px solid #bbb !important;
+    margin: auto margin-left:25% !important; margin-right:25% !important;;
 }
