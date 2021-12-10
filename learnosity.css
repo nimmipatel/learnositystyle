@@ -50,6 +50,16 @@ margin: auto 320px !important;
   padding: 15px !important;
 }
 
+.lrn-group-bottom {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 8px;
+}
+.lrn-group-middle {
+    padding-bottom: 30px;
+}
+
 .stimulus_withborder {
     border-top: 3px solid #bbb !important;
     margin: auto margin-left:25% !important; margin-right:25% !important;;
