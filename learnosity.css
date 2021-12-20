@@ -5,6 +5,7 @@ iframe.x-origin-frame {
 body {
     background-color: #7d7d7d;
     margin: 0px;
+    height:100%;
 }
 
 .assessment_container {
@@ -16,6 +17,21 @@ body {
 .lrn-assess {
     margin: 0px !important;
     padding: 0px !important;
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    overflow: auto;
+}
+
+.lrn.lrn-assess .lrn-group-middle {	
+	min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -60pt; 
+}
+
+.lrn.lrn-assess .lrn-group-bottom {	
+	height: 60pt;
 }
 
 .passage_title, .lrn-feature-heading {
