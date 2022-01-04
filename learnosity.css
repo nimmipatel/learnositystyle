@@ -17,10 +17,6 @@ body {
 .lrn-assess {
     margin: 0px !important;
     padding: 0px !important;
-    min-height: 100%;
-    height: auto !important;
-    height: 100%;
-    overflow: auto;
 }
 
 .passage_title, .lrn-feature-heading {
