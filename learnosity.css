@@ -23,17 +23,6 @@ body {
     overflow: auto;
 }
 
-.lrn.lrn-assess .lrn-group-middle {	
-	min-height: 100%;
-    height: auto !important;
-    height: 100%;
-    margin: 50pt auto 60pt; 
-}
-
-.lrn.lrn-assess .lrn-group-bottom {	
-	height: 60pt;
-}
-
 .passage_title, .lrn-feature-heading {
     display: none;
 }
