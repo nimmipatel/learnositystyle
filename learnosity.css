@@ -23,7 +23,7 @@ body {
     display: none;
 }
 
-.top-right-wrapper, .bottom-right-wrapper {
+.top-right-wrapper, .bottom-wrapper {
     padding-left: 15px !important;
     padding-right: 15px !important;
 }
