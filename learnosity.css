@@ -9,7 +9,7 @@ body {
 }
 
 .assessment_container {
-    height: 100vh;
+    height: 480px;
     background: #ffffff;
     margin: 0 128px;
 }
